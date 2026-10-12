@@ -1,0 +1,482 @@
+[
+  {
+    "timestamp": "2026-10-09T22:36:01.527921+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p01_bluehen_quote.html",
+    "input_tokens": 11184,
+    "cache_write_tokens": 11058,
+    "cache_read_tokens": 0,
+    "output_tokens": 27,
+    "cost_usd": 0.0014083499999999998
+  },
+  {
+    "timestamp": "2026-10-09T22:36:01.527945+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p01_bluehen_quote.html",
+    "input_tokens": 11345,
+    "cache_write_tokens": 161,
+    "cache_read_tokens": 11058,
+    "output_tokens": 213,
+    "cost_usd": 0.000249805
+  },
+  {
+    "timestamp": "2026-10-09T22:36:06.104622+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p02_elmcity_quote.html",
+    "input_tokens": 11185,
+    "cache_write_tokens": 37,
+    "cache_read_tokens": 11022,
+    "output_tokens": 28,
+    "cost_usd": 0.000141445
+  },
+  {
+    "timestamp": "2026-10-09T22:36:06.104639+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p02_elmcity_quote.html",
+    "input_tokens": 11347,
+    "cache_write_tokens": 162,
+    "cache_read_tokens": 11059,
+    "output_tokens": 196,
+    "cost_usd": 0.00024144
+  },
+  {
+    "timestamp": "2026-10-09T22:36:14.348086+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p03_ivyprint_catalog.html",
+    "input_tokens": 11185,
+    "cache_write_tokens": 37,
+    "cache_read_tokens": 11022,
+    "output_tokens": 28,
+    "cost_usd": 0.000141445
+  },
+  {
+    "timestamp": "2026-10-09T22:36:14.348102+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p03_ivyprint_catalog.html",
+    "input_tokens": 11345,
+    "cache_write_tokens": 160,
+    "cache_read_tokens": 11059,
+    "output_tokens": 184,
+    "cost_usd": 0.00023519
+  },
+  {
+    "timestamp": "2026-10-09T22:36:17.912546+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p04_harborstitch_quote.html",
+    "input_tokens": 11187,
+    "cache_write_tokens": 39,
+    "cache_read_tokens": 11022,
+    "output_tokens": 30,
+    "cost_usd": 0.000142695
+  },
+  {
+    "timestamp": "2026-10-09T22:36:17.912564+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p04_harborstitch_quote.html",
+    "input_tokens": 11335,
+    "cache_write_tokens": 148,
+    "cache_read_tokens": 11061,
+    "output_tokens": 157,
+    "cost_usd": 0.00022021
+  },
+  {
+    "timestamp": "2026-10-09T22:36:22.417720+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p05_maplemills_quote.pdf",
+    "input_tokens": 11185,
+    "cache_write_tokens": 37,
+    "cache_read_tokens": 11022,
+    "output_tokens": 28,
+    "cost_usd": 0.000141445
+  },
+  {
+    "timestamp": "2026-10-09T22:36:22.417737+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p05_maplemills_quote.pdf",
+    "input_tokens": 11313,
+    "cache_write_tokens": 128,
+    "cache_read_tokens": 11059,
+    "output_tokens": 149,
+    "cost_usd": 0.00021369
+  },
+  {
+    "timestamp": "2026-10-09T22:36:30.407564+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p06_qtextile_quote.pdf",
+    "input_tokens": 11185,
+    "cache_write_tokens": 37,
+    "cache_read_tokens": 11022,
+    "output_tokens": 28,
+    "cost_usd": 0.000141445
+  },
+  {
+    "timestamp": "2026-10-09T22:36:30.407581+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p06_qtextile_quote.pdf",
+    "input_tokens": 11357,
+    "cache_write_tokens": 172,
+    "cache_read_tokens": 11059,
+    "output_tokens": 197,
+    "cost_usd": 0.00024319
+  },
+  {
+    "timestamp": "2026-10-09T22:36:37.693697+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p07_longwharf_quote.pdf",
+    "input_tokens": 11185,
+    "cache_write_tokens": 37,
+    "cache_read_tokens": 11022,
+    "output_tokens": 28,
+    "cost_usd": 0.000141445
+  },
+  {
+    "timestamp": "2026-10-09T22:36:37.693718+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p07_longwharf_quote.pdf",
+    "input_tokens": 11332,
+    "cache_write_tokens": 147,
+    "cache_read_tokens": 11059,
+    "output_tokens": 334,
+    "cost_usd": 0.000308565
+  },
+  {
+    "timestamp": "2026-10-09T22:36:38.195763+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p08_chapelst_email.eml",
+    "input_tokens": 11186,
+    "cache_write_tokens": 38,
+    "cache_read_tokens": 11022,
+    "output_tokens": 29,
+    "cost_usd": 0.00014207
+  },
+  {
+    "timestamp": "2026-10-09T22:36:38.195781+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p08_chapelst_email.eml",
+    "input_tokens": 11327,
+    "cache_write_tokens": 141,
+    "cache_read_tokens": 11060,
+    "output_tokens": 147,
+    "cost_usd": 0.00021432500000000002
+  },
+  {
+    "timestamp": "2026-10-09T22:36:42.165428+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p09_westville_email.eml",
+    "input_tokens": 11186,
+    "cache_write_tokens": 38,
+    "cache_read_tokens": 11022,
+    "output_tokens": 29,
+    "cost_usd": 0.00014207
+  },
+  {
+    "timestamp": "2026-10-09T22:36:42.165444+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p09_westville_email.eml",
+    "input_tokens": 11323,
+    "cache_write_tokens": 137,
+    "cache_read_tokens": 11060,
+    "output_tokens": 187,
+    "cost_usd": 0.000233825
+  },
+  {
+    "timestamp": "2026-10-09T22:36:48.912369+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p10_eastrock_email.eml",
+    "input_tokens": 11186,
+    "cache_write_tokens": 38,
+    "cache_read_tokens": 11022,
+    "output_tokens": 29,
+    "cost_usd": 0.00014207
+  },
+  {
+    "timestamp": "2026-10-09T22:36:48.912388+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p10_eastrock_email.eml",
+    "input_tokens": 11346,
+    "cache_write_tokens": 160,
+    "cache_read_tokens": 11060,
+    "output_tokens": 120,
+    "cost_usd": 0.0002032
+  },
+  {
+    "timestamp": "2026-10-09T22:36:53.034299+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p11_yorkst_quote.html",
+    "input_tokens": 11185,
+    "cache_write_tokens": 37,
+    "cache_read_tokens": 11022,
+    "output_tokens": 28,
+    "cost_usd": 0.000141445
+  },
+  {
+    "timestamp": "2026-10-09T22:36:53.034319+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p11_yorkst_quote.html",
+    "input_tokens": 11309,
+    "cache_write_tokens": 124,
+    "cache_read_tokens": 11059,
+    "output_tokens": 152,
+    "cost_usd": 0.00021469
+  },
+  {
+    "timestamp": "2026-10-09T22:36:57.643740+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p12_bluehen_quote.pdf",
+    "input_tokens": 11184,
+    "cache_write_tokens": 36,
+    "cache_read_tokens": 11022,
+    "output_tokens": 27,
+    "cost_usd": 0.00014082
+  },
+  {
+    "timestamp": "2026-10-09T22:36:57.643755+00:00",
+    "setup": "with_cache",
+    "document": "data/practice_docs/p12_bluehen_quote.pdf",
+    "input_tokens": 11331,
+    "cache_write_tokens": 147,
+    "cache_read_tokens": 11058,
+    "output_tokens": 228,
+    "cost_usd": 0.00025555500000000003
+  },
+  {
+    "timestamp": "2026-10-09T22:37:03.070529+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p01_bluehen_quote.html",
+    "input_tokens": 11213,
+    "cache_write_tokens": 11087,
+    "cache_read_tokens": 0,
+    "output_tokens": 27,
+    "cost_usd": 0.001411975
+  },
+  {
+    "timestamp": "2026-10-09T22:37:03.070545+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p01_bluehen_quote.html",
+    "input_tokens": 11374,
+    "cache_write_tokens": 161,
+    "cache_read_tokens": 11087,
+    "output_tokens": 171,
+    "cost_usd": 0.000229095
+  },
+  {
+    "timestamp": "2026-10-09T22:37:07.657783+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p02_elmcity_quote.html",
+    "input_tokens": 11216,
+    "cache_write_tokens": 11090,
+    "cache_read_tokens": 0,
+    "output_tokens": 28,
+    "cost_usd": 0.00141285
+  },
+  {
+    "timestamp": "2026-10-09T22:37:07.657802+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p02_elmcity_quote.html",
+    "input_tokens": 11378,
+    "cache_write_tokens": 162,
+    "cache_read_tokens": 11090,
+    "output_tokens": 208,
+    "cost_usd": 0.00024775
+  },
+  {
+    "timestamp": "2026-10-09T22:37:13.087777+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p03_ivyprint_catalog.html",
+    "input_tokens": 11214,
+    "cache_write_tokens": 11088,
+    "cache_read_tokens": 0,
+    "output_tokens": 28,
+    "cost_usd": 0.0014126
+  },
+  {
+    "timestamp": "2026-10-09T22:37:13.087795+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p03_ivyprint_catalog.html",
+    "input_tokens": 11374,
+    "cache_write_tokens": 160,
+    "cache_read_tokens": 11088,
+    "output_tokens": 393,
+    "cost_usd": 0.00033998000000000003
+  },
+  {
+    "timestamp": "2026-10-09T22:37:17.001603+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p04_harborstitch_quote.html",
+    "input_tokens": 11215,
+    "cache_write_tokens": 11089,
+    "cache_read_tokens": 0,
+    "output_tokens": 30,
+    "cost_usd": 0.001413725
+  },
+  {
+    "timestamp": "2026-10-09T22:37:17.001621+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p04_harborstitch_quote.html",
+    "input_tokens": 11363,
+    "cache_write_tokens": 148,
+    "cache_read_tokens": 11089,
+    "output_tokens": 182,
+    "cost_usd": 0.00023299
+  },
+  {
+    "timestamp": "2026-10-09T22:37:22.630294+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p05_maplemills_quote.pdf",
+    "input_tokens": 11213,
+    "cache_write_tokens": 11087,
+    "cache_read_tokens": 0,
+    "output_tokens": 28,
+    "cost_usd": 0.0014124749999999998
+  },
+  {
+    "timestamp": "2026-10-09T22:37:22.630302+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p05_maplemills_quote.pdf",
+    "input_tokens": 11341,
+    "cache_write_tokens": 128,
+    "cache_read_tokens": 11087,
+    "output_tokens": 154,
+    "cost_usd": 0.00021647
+  },
+  {
+    "timestamp": "2026-10-09T22:37:27.751155+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p06_qtextile_quote.pdf",
+    "input_tokens": 11211,
+    "cache_write_tokens": 11085,
+    "cache_read_tokens": 0,
+    "output_tokens": 28,
+    "cost_usd": 0.0014122249999999998
+  },
+  {
+    "timestamp": "2026-10-09T22:37:27.751166+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p06_qtextile_quote.pdf",
+    "input_tokens": 11383,
+    "cache_write_tokens": 172,
+    "cache_read_tokens": 11085,
+    "output_tokens": 214,
+    "cost_usd": 0.00025195
+  },
+  {
+    "timestamp": "2026-10-09T22:37:32.225093+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p07_longwharf_quote.pdf",
+    "input_tokens": 11214,
+    "cache_write_tokens": 11088,
+    "cache_read_tokens": 0,
+    "output_tokens": 28,
+    "cost_usd": 0.0014126
+  },
+  {
+    "timestamp": "2026-10-09T22:37:32.225108+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p07_longwharf_quote.pdf",
+    "input_tokens": 11361,
+    "cache_write_tokens": 147,
+    "cache_read_tokens": 11088,
+    "output_tokens": 256,
+    "cost_usd": 0.000269855
+  },
+  {
+    "timestamp": "2026-10-09T22:37:36.358019+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p08_chapelst_email.eml",
+    "input_tokens": 11212,
+    "cache_write_tokens": 11086,
+    "cache_read_tokens": 0,
+    "output_tokens": 29,
+    "cost_usd": 0.00141285
+  },
+  {
+    "timestamp": "2026-10-09T22:37:36.358038+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p08_chapelst_email.eml",
+    "input_tokens": 11353,
+    "cache_write_tokens": 141,
+    "cache_read_tokens": 11086,
+    "output_tokens": 178,
+    "cost_usd": 0.00023008500000000002
+  },
+  {
+    "timestamp": "2026-10-09T22:37:41.170899+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p09_westville_email.eml",
+    "input_tokens": 11212,
+    "cache_write_tokens": 11086,
+    "cache_read_tokens": 0,
+    "output_tokens": 29,
+    "cost_usd": 0.00141285
+  },
+  {
+    "timestamp": "2026-10-09T22:37:41.170916+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p09_westville_email.eml",
+    "input_tokens": 11349,
+    "cache_write_tokens": 137,
+    "cache_read_tokens": 11086,
+    "output_tokens": 158,
+    "cost_usd": 0.000219585
+  },
+  {
+    "timestamp": "2026-10-09T22:37:44.785066+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p10_eastrock_email.eml",
+    "input_tokens": 11212,
+    "cache_write_tokens": 11086,
+    "cache_read_tokens": 0,
+    "output_tokens": 29,
+    "cost_usd": 0.00141285
+  },
+  {
+    "timestamp": "2026-10-09T22:37:44.785086+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p10_eastrock_email.eml",
+    "input_tokens": 11372,
+    "cache_write_tokens": 160,
+    "cache_read_tokens": 11086,
+    "output_tokens": 150,
+    "cost_usd": 0.00021846000000000002
+  },
+  {
+    "timestamp": "2026-10-09T22:37:48.899858+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p11_yorkst_quote.html",
+    "input_tokens": 11212,
+    "cache_write_tokens": 11086,
+    "cache_read_tokens": 0,
+    "output_tokens": 28,
+    "cost_usd": 0.00141235
+  },
+  {
+    "timestamp": "2026-10-09T22:37:48.899876+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p11_yorkst_quote.html",
+    "input_tokens": 11336,
+    "cache_write_tokens": 124,
+    "cache_read_tokens": 11086,
+    "output_tokens": 167,
+    "cost_usd": 0.00022246
+  },
+  {
+    "timestamp": "2026-10-09T22:37:52.766936+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p12_bluehen_quote.pdf",
+    "input_tokens": 11214,
+    "cache_write_tokens": 11088,
+    "cache_read_tokens": 0,
+    "output_tokens": 27,
+    "cost_usd": 0.0014121
+  },
+  {
+    "timestamp": "2026-10-09T22:37:52.766955+00:00",
+    "setup": "without_cache",
+    "document": "data/practice_docs/p12_bluehen_quote.pdf",
+    "input_tokens": 11361,
+    "cache_write_tokens": 147,
+    "cache_read_tokens": 11088,
+    "output_tokens": 202,
+    "cost_usd": 0.000242855
+  }
+]
